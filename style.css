@@ -15,19 +15,8 @@ header {
   margin-top: 0px;
 }
 
-.divider {
-  margin-top: 5px;
-  max-width: 900px;
-}
-
 #title {
   display: inline-block;
-}
-
-#title h2 {
-  margin-bottom: 0px;
-  font-family: 'Yellowtail', cursive;
-  font-size: 35px;
 }
 
 #title p {
@@ -35,6 +24,12 @@ header {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 10px;
   color: #999999;
+}
+
+#title h2 {
+  margin-bottom: 0px;
+  font-family: 'Yellowtail', cursive;
+  font-size: 35px;
 }
 
 header ul {
@@ -81,6 +76,11 @@ h4 {
   display: inline-block;
 }
 
+#col2 {
+  left: 400px;
+  width: 380px;
+}
+
 main p {
   text-indent: 25px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -101,11 +101,6 @@ section ul {
   list-style: none;
   position: absolute;
   top: 20px;
-}
-
-#col2 {
-  left: 400px;
-  width: 380px;
 }
 
 section li {
@@ -183,4 +178,9 @@ hr {
   border-color: #dddddd;
   border-top: none;
   margin-bottom: 15px;
+}
+
+.divider {
+  margin-top: 5px;
+  max-width: 900px;
 }
