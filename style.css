@@ -34,7 +34,7 @@ header {
   margin-top: -6px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 10px;
-  color: #999;
+  color: #999999;
 }
 
 header ul {
@@ -68,13 +68,13 @@ h4 {
   margin-top: -3px;
   margin-bottom: 23px;
   display: inline-block;
-  color: #999;
+  color: #999999;
 }
 
 #print {
   display: inline-block;
   margin-left: 700px;
-  color: #999;
+  color: #999999;
 }
 
 #print img {
@@ -87,14 +87,14 @@ main p {
   font-size: 18px;
   line-height: 25px;
   margin-top: 30px;
-  color: #888;
+  color: #888888;
 }
 
 section {
   position: relative;
   margin-top: 40px;
   margin-bottom: 25px;
-  color: #888;
+  color: #888888;
 }
 
 section ul {
@@ -126,7 +126,7 @@ input[type="checkbox"]:checked + label {
 
 footer {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #888;
+  color: #888888;
 }
 
 #bio {
@@ -150,7 +150,7 @@ button {
   height: 55px;
   margin-top: 25px;
   background-color: #c66119;
-  color: #FFFFFF;
+  color: #ffffff;
   float: right;
   font-size: 16px;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -158,13 +158,13 @@ button {
 
 button a {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 #copyright {
   margin: 30px auto;
   font-size: 14px;
-  color: #bbb;
+  color: #bbbbbb;
   text-align: center;
   margin-bottom: 80px;
 }
@@ -180,7 +180,7 @@ hr, #logo-small {
 
 hr {
   width: 425px;
-  border-color: #ddd;
+  border-color: #dddddd;
   border-top: none;
   margin-bottom: 15px;
 }
